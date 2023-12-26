@@ -1,4 +1,4 @@
-%% Self-adaptive Informed RRT*
+%% Adaptive Informed RRT*
 % Author: Huang Yuan
 % Time: 2022/06/13
 
